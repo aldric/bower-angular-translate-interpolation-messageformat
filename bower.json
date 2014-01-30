@@ -3,8 +3,8 @@
   "version": "0.1.5",
   "main": "./angular-translate-interpolation-messageformat.js",
   "dependencies": {
-    "angular": "1.0.8",
-    "angular-translate": "~1.1.1",
+    "angular": ""~1.2.6",
+    "angular-translate" : "https://github.com/aldric/angular-translate.git#~1.1.1"
     "messageformat": "~0.1.6"
   }
 }
